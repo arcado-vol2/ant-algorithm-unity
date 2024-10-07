@@ -303,4 +303,3 @@ private IEnumerator Main()
 
 А если вы с телефона....
 ![QR-код](images/ant-algo.gif)
-Ye
